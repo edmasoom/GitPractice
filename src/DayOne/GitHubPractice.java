@@ -8,6 +8,11 @@ public class GitHubPractice {
 		
 		System.out.println("Another test");
 		System.out.println("Test update");
+		
+	}
+	
+	public void print(String name) {
+		System.out.println(name);
 	}
 
 }
